@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 8.00
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "множественный коррел€ционный анализ", "множественный коррел€ционный анализ.vcproj", "{D600EE44-073A-4AA3-9F1E-D721A9042DFA}"
+	ProjectSection(ProjectDependencies) = postProject
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfiguration) = preSolution
+		Debug = Debug
+		Release = Release
+	EndGlobalSection
+	GlobalSection(ProjectConfiguration) = postSolution
+		{D600EE44-073A-4AA3-9F1E-D721A9042DFA}.Debug.ActiveCfg = Debug|Win32
+		{D600EE44-073A-4AA3-9F1E-D721A9042DFA}.Debug.Build.0 = Debug|Win32
+		{D600EE44-073A-4AA3-9F1E-D721A9042DFA}.Release.ActiveCfg = Release|Win32
+		{D600EE44-073A-4AA3-9F1E-D721A9042DFA}.Release.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+	EndGlobalSection
+	GlobalSection(ExtensibilityAddIns) = postSolution
+	EndGlobalSection
+EndGlobal
